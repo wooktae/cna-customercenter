@@ -1,0 +1,11 @@
+shop\AbstractEvent.class
+shop\AbstractEvent$1.class
+shop\Mypage.class
+shop\config\kafka\KafkaProcessor.class
+shop\DeliveryCanceled.class
+shop\PolicyHandler.class
+shop\MypageRepository.class
+shop\MypageViewHandler.class
+shop\Shipped.class
+shop\CustomercenterApplication.class
+shop\Ordered.class
